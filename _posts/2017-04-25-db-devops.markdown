@@ -4,4 +4,4 @@ title:  "Database DevOps"
 date:   2017-04-25 19:59:31 +0100
 categories: database devops 
 ---
-{% include https://github.com/wbleonard/accs-dbcs-devcs/blob/master/README.md %}
+https://github.com/wbleonard/accs-dbcs-devcs/blob/master/README.md
