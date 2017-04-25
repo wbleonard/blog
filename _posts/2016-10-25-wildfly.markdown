@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Continuous Deployment of Wildfly Applications using Developer Cloud and Application Container Cloud"
+date:   2016-10-25
+categories: database devops 
+---
+
+[Continuous Deployment of Wildfly Applications using Developer Cloud and Application Container Cloud](https://github.com/OracleNATD/accs-wildfly/blob/master/README.md)
