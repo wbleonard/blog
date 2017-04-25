@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Building Developer Cloud Applications Using Gradle"
+date:   2016-10-14 18:59:31 +0100
+categories: devops 
+---
+
+[Building Developer Cloud Applications Using Gradle](https://wbrianleonard.wordpress.com/2016/10/14/building-developer-cloud-applications-using-gradle/)
