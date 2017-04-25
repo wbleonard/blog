@@ -16,7 +16,7 @@
 title: W Brian Leonard
 email: william.leonard@oracle.com
 description: > # this means to ignore newlines until "baseurl:"
-  W. Brian Leonard's blog
+  PaaS Enthusiast
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://wbleonard.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brianleonard
