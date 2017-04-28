@@ -5,4 +5,4 @@ date:   2017-04-07
 categories: database devops 
 ---
 
-[Developing, Integrating and Protecting Vendor Neutral Microservices Demo Script](https://github.com/OracleNATD/vendor-neutral-microservices)
+[Developing, Integrating and Protecting Vendor Neutral Microservices Demo Script](https://github.com/OracleNATD/vendor-neutral-microservices/blob/master/README.md)
