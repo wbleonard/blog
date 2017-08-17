@@ -5,4 +5,4 @@ date:   2016-06-04 18:59:31 +0100
 categories: devops 
 ---
 
-[SQLcl](https://github.com/OracleNATD/SQLcl/blob/master/README.md)
+[SQLcl](https://libraries.io/github/OracleNATD/SQLcl)
