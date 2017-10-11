@@ -4,4 +4,4 @@ title:  "Library Service Intelligent Bot Custom Component (Express.js)"
 date:   2017-09-26 19:59:31 +0100
 categories: ibcs custom component 
 ---
-[Library Service Intelligent Bot Custom Component (Express.js)](https://github.com/OracleNATD/gamerentals.com-jcs/tree/master/ravello)  
+[Library Service Intelligent Bot Custom Component (Express.js)](https://github.com/wbleonard/intelligent_bot_library_dynamic)  
