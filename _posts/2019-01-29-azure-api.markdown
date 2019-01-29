@@ -3,6 +3,6 @@ layout: post
 title:  "Using the Azure Cognitive Services in MongoDB Stitch"
 date:   2019-01-29 19:59:31 +0100
 categories: mongodb atlas api microservice stitch azure
---
-[Using the Azure Cognitive Services in MongoDB Stitch]
-(https://github.com/wbleonard/stitch-azure-congnitive-services)
+---
+[Using the Azure Cognitive Services in MongoDB Stitch
+](https://github.com/wbleonard/stitch-azure-congnitive-services/blob/master/README.md)
