@@ -1,2 +1,2 @@
 # blog
-W Brian Leonard's new blog platform
+W Brian Leonard's new blog platform.
